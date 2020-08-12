@@ -46,11 +46,21 @@
   }
 }
 
-.btnr{
-  position: relative;
+.btnr-log{
+  position: absolute;
   text-align: center;
-  left: 1000px;
+  top: 50px;
+  left: 1100px;
 }
+
+.btnr-abt{
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  left: 1200px;
+}
+
+
 .logo{
 
   margin: 18px;
@@ -83,7 +93,7 @@
    margin: 2px;
    padding: 7px 22px;
    text-decoration: none;
-   border: 1px solid #1D8A80;
+   border: 1px solid #fff;
    border-radius: 25px;
 }
 
